@@ -161,3 +161,56 @@ Following the leaders of the JavaScript community is a nice way to keep up to da
     </tbody>
   </table>
 </div>
+
+<!-- 4 -->
+
+<span style="color: rgb(51, 51, 51);"><span style="background-color: rgb(255, 255, 255);"><strong>Jake Archibald</strong></span></span>
+
+<div>
+  <table>
+    <colgroup>
+      <col width="188px">
+      <col width="188px">
+      <col width="78px">
+      <col width="294px">
+    </colgroup>
+    <tbody>
+      <tr height="34px">
+        <td rowspan="3" colspan="1">
+          <div>
+            <div>
+              <img src="https://avatars3.githubusercontent.com/u/93594?s=400&v=4" width="166">
+            </div>
+          </div>
+        </td>
+        <td rowspan="3" colspan="1">
+          <div></div>
+          <div></div>
+          <div>A developer advocate for Google Chrome.</i></div>
+        </td>
+        <td rowspan="1" colspan="1">
+          <div>BLOG</div>
+        </td>
+        <td rowspan="1" colspan="1">
+          <a>https://jakearchibald.com/<a>
+        </td>
+      </tr>
+      <tr height="34px">
+        <td rowspan="1" colspan="1">
+          <div>GITHUB</div>
+        </td>
+        <td>
+          <a>https://github.com/jakearchibald</a>
+        </td>
+      </tr>
+      <tr height="34px">
+        <td rowspan="1" colspan="1">
+          <div>TWITTER</div>
+        </td>
+        <td>
+          <a>https://twitter.com/jaffathecake</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
