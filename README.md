@@ -56,9 +56,10 @@ Following the leaders of the JavaScript community is a nice way to keep up to da
   </table>
 </div>
 
+<!-- 2 -->
+
 <span style="color: rgb(51, 51, 51);"><span style="background-color: rgb(255, 255, 255);"><strong>Nicholas C. Zakas</strong></span></span>
 
-<!-- 2 -->
 <div>
   <table>
     <colgroup>
@@ -102,6 +103,59 @@ Following the leaders of the JavaScript community is a nice way to keep up to da
         </td>
         <td>
           <a>https://twitter.com/slicknet</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 3 -->
+
+<span style="color: rgb(51, 51, 51);"><span style="background-color: rgb(255, 255, 255);"><strong>Kyle Simpson</strong></span></span>
+
+<div>
+  <table>
+    <colgroup>
+      <col width="188px">
+      <col width="188px">
+      <col width="78px">
+      <col width="294px">
+    </colgroup>
+    <tbody>
+      <tr height="34px">
+        <td rowspan="3" colspan="1">
+          <div>
+            <div>
+              <img src="https://avatars0.githubusercontent.com/u/150330?s=400&v=4" width="166">
+            </div>
+          </div>
+        </td>
+        <td rowspan="3" colspan="1">
+          <div></div>
+          <div></div>
+          <div>Author of <i>You Dont KnowJS</i></div>
+        </td>
+        <td rowspan="1" colspan="1">
+          <div>BLOG</div>
+        </td>
+        <td rowspan="1" colspan="1">
+          <a>https://www.nczonline.net/<a>
+        </td>
+      </tr>
+      <tr height="34px">
+        <td rowspan="1" colspan="1">
+          <div>GITHUB</div>
+        </td>
+        <td>
+          <a></a>
+        </td>
+      </tr>
+      <tr height="34px">
+        <td rowspan="1" colspan="1">
+          <div>TWITTER</div>
+        </td>
+        <td>
+          <a>https://twitter.com/getify</a>
         </td>
       </tr>
     </tbody>
