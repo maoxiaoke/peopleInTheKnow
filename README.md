@@ -186,7 +186,7 @@ Following the leaders of the JavaScript community is a nice way to keep up to da
         <td rowspan="3" colspan="1">
           <div></div>
           <div></div>
-          <div>A developer advocate for Google Chrome.</i></div>
+          <div>A developer advocate for Google Chrome and the Blogger of <i>jakearchibald</i></div>
         </td>
         <td rowspan="1" colspan="1">
           <div>BLOG</div>
