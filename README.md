@@ -133,13 +133,13 @@ Following the leaders of the JavaScript community is a nice way to keep up to da
         <td rowspan="3" colspan="1">
           <div></div>
           <div></div>
-          <div>Author of <i>You Dont KnowJS</i></div>
+          <div>Author of <i>You Dont KnowJS and</i> and <i>Functional Light JS</i>.</div>
         </td>
         <td rowspan="1" colspan="1">
           <div>BLOG</div>
         </td>
         <td rowspan="1" colspan="1">
-          <a>https://www.nczonline.net/<a>
+          <a>...<a>
         </td>
       </tr>
       <tr height="34px">
