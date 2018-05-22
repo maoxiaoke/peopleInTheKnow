@@ -147,7 +147,7 @@ Following the leaders of the JavaScript community is a nice way to keep up to da
           <div>GITHUB</div>
         </td>
         <td>
-          <a></a>
+          <a>https://github.com/getify</a>
         </td>
       </tr>
       <tr height="34px">
